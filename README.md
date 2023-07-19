@@ -1,2 +1,2 @@
 # linuxfromscratch
-rofllinnux
+rofllinux
